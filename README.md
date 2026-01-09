@@ -1,0 +1,1 @@
+On cherche à déterminer le profile du tracé du prix de mon option en fonction prix du sous jacent. 
