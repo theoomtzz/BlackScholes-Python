@@ -2,6 +2,8 @@
 
 A simple, vectorized Python implementation of the **Black-Scholes model** for pricing European Call and Put options. It includes scripts to visualize how option prices change with spot price and time to maturity.
 
+![Volatility Surface Visualization](images/demo_3d.png)
+
 ## 🚀 Features
 
 * **Vectorized:** Uses `NumPy` for fast calculations without loops.
